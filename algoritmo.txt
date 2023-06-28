@@ -1,0 +1,17 @@
+Algoritmo da hora de acrodar:
+
+01 - Ao tocar o despertador, desligar e voltar a dormir;
+02 - Quando tocar novamente, desligar e levantar da cama;
+03 - Colocar os fones de ouvido para carregar;
+04 - Andar até o banheiro e lavar o rosto;
+05 - Colocar água para ferver na chaleira;
+06 - Montar o coador de café em cima da caneca e adicionar o pó;
+07 - Verificar se a água já ferveu;
+08 - Se já tiver fervido;
+    1 - Despejar a água quente no coador;
+    2 - Aguardar o infusão
+09 - Se não tiver fervido;
+    1 - Aguardar o fervimento;
+    2 - Voltar para o passo 7;
+10 - Ligar o notebook;
+11 - Começar os estudos do dia; 
